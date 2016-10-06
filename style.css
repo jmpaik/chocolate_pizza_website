@@ -1,0 +1,54 @@
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+nav {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.heading {
+  display: inline-block;
+}
+
+.heading img {
+  display: inline-block
+}
+
+.heading h1 {
+  display: inline-block;
+}
+
+.socialMediaIcons {
+  float: right;
+}
+
+.chocoPizza {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.print {
+  float: right;
+  display: inline-block;
+}
+
+.print img{
+  display: inline-block;
+}
+
+.print p {
+  display: inline-block;
+  }
+
+.mainPic {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+article {
+  max-width: 900px;
+  margin: 0 auto;
+
+}
