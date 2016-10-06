@@ -1,5 +1,5 @@
 body {
-  max-width: 960px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -13,23 +13,20 @@ nav {
 }
 
 .heading img {
-  display: inline-block
+  display: inline-block;
 }
 
 .heading h1 {
   display: inline-block;
+  font-family: 'Yellowtail', cursive;
 }
 
 .socialMediaIcons {
   float: right;
 }
 
-.chocoPizza {
-  max-width: 960px;
-  margin: 0 auto;
-}
-
 .print {
+  margin-top: -50px;
   float: right;
   display: inline-block;
 }
@@ -42,13 +39,37 @@ nav {
   display: inline-block;
   }
 
-.mainPic {
+article {
   max-width: 960px;
   margin: 0 auto;
 }
 
-article {
-  max-width: 900px;
-  margin: 0 auto;
+.firstarticle {
+  margin-top: 30px;
+}
 
+.lastarticle {
+  margin-bottom: 30px;
+}
+
+ul {
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 24px;
+  /*list-style-image: url(img/emptybox.png);*/
+}
+
+#lefthalfrecipe {
+  margin-top: -275px;
+  margin-left: 40px;
+  line-height: 31px;
+}
+
+#righthalfrecipe {
+  margin-top: -210px;
+  margin-left: 340px;
+  line-height: 31px;
+}
+
+.author {
+  margin-top: 120px;
 }
